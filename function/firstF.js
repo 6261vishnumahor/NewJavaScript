@@ -41,3 +41,26 @@
 // })
 // let s=k( celsious())
 // console.log(s)
+
+
+
+
+let a=23
+let b=21
+// a=b
+// console.log(a)
+a-=b
+console.log(a)
+b+=a
+console.log(b)
+
+b /= a
+console.log(b)
+b*=a
+console.log(b)
+
+b%=a
+console.log(b)
+
+
+
