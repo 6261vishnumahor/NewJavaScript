@@ -2,9 +2,10 @@ let i = 1;
 let count = 1;
 let digit = 0;
 let sum = 0;
- let number=145;
+let number = 145;
 let n = number;
-while (n > 0) {
+
+for (let j=1; j<=n; i++){
     digit = n % 10;
     for (i = 1; i <= digit; i++) {
         count = count * i;

@@ -14,13 +14,24 @@
 
 
 // console.log(arr.slice([0] ,[3]))
-let arr4 = [2, 3, 4, 5, 6, 7, 8, 9, 10]
+// let arr4 = [2, 3, 4, 5, 6, 7, 8, 9, 10]
 // console.log(arr4)
 // arr4.splice(2,0,201)
 // arr4.splice(2,2,22,23)
 // arr4.splice(3,1)
 // arr4.splice(3,1,56)
 // console.log(arr4)
-let arr5 = [12, 13, 14, 15]
-let arr6 = arr4.concat(arr5)
-console.log(arr6)
+// let arr5 = [12, 13, 14, 15]
+// let arr6 = arr4.concat(arr5)
+// console.log(arr6)
+
+
+
+
+
+
+
+let arr=["joy","jon",'vipin', "mohit","harsit"]
+// arr.shift("jon")
+// console.log(arr)
+console.log(arr.at(-2))
