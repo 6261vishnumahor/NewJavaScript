@@ -45,22 +45,32 @@
 
 
 
-let a=23
-let b=21
-// a=b
+// let a=23
+// let b=21
+// // a=b
+// // console.log(a)
+// a-=b
 // console.log(a)
-a-=b
-console.log(a)
-b+=a
-console.log(b)
+// b+=a
+// console.log(b)
 
-b /= a
-console.log(b)
-b*=a
-console.log(b)
+// b /= a
+// console.log(b)
+// b*=a
+// console.log(b)
 
-b%=a
-console.log(b)
+// b%=a
+// console.log(b)
 
 
 
+// function abc(a,b){
+   
+//     console.log(a+b)
+// }
+
+// function sum(2,3,df){
+
+// }
+
+// let arr=

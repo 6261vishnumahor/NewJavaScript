@@ -4,7 +4,7 @@
 // let count = 1;
 // let digit = 0;
 // let sum = 0;
-// let number = 145;
+// let number = 40585;
 // let n = number;
 
 // while (n!==0){
@@ -30,7 +30,7 @@
 let sum=0;
 let number=145
 let num=number
-while(num>0){
+while(num!=0){
     let x=num%10
     let factorial= findFact(x);
     sum=sum+factorial

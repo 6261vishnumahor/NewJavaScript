@@ -31,7 +31,49 @@
 
 
 
-let arr=["joy","jon",'vipin', "mohit","harsit"]
+// let arr=["joy","jon",'vipin', "mohit","harsit"]
 // arr.shift("jon")
 // console.log(arr)
-console.log(arr.at(-2))
+// console.log(arr.at(-2))
+
+
+//some
+// let arr4 = [2, 3, 4, 5, 6, 7, 8, 9, 10]
+// const fun= function(x){
+//     return x>=5
+// }
+// console.log(arr4.some(fun))
+
+
+// //every
+// console.log(arr4.every(fun))
+
+
+// var arr=[...arr4]
+// arr.push(44,34)
+// console.log(arr)
+// console.log(arr4)
+
+
+
+// function abc(a,...b){
+//     console.log(a,b)
+// }
+
+// var array=[2,3,4,5,6]
+// abc(...array)
+
+//==========sort and reverse==========
+// var arr =[34,2,3,4,23,43,12,23,34]
+// // console.log(arr.sort())
+// console.log(arr.reverse())
+// // console.log(arr.sort())
+// console.log(arr.sort((a, b) => { return a - b }))
+// console.log(arr.sort((a, b) => { return b - a }))
+
+
+
+
+// var arr = [34, 2, 3, 4, 23, 43, 12, 23, 34]
+//  for(var i =1)
+
